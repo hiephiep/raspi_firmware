@@ -48463,12 +48463,12 @@ c0b22c78 d str_spec.3
 c0b22c80 D linux_banner
 c0b22d34 D kallsyms_num_syms
 c0b22d38 D kallsyms_names
-c0c484c0 D kallsyms_markers
-c0c48a40 D kallsyms_token_table
-c0c48df4 D kallsyms_token_index
-c0c48ff4 D kallsyms_offsets
-c0ca0d18 D kallsyms_relative_base
-c0ca0d1c D kallsyms_seqs_of_names
+c0c484c4 D kallsyms_markers
+c0c48a44 D kallsyms_token_table
+c0c48df8 D kallsyms_token_index
+c0c48ff8 D kallsyms_offsets
+c0ca0d1c D kallsyms_relative_base
+c0ca0d20 D kallsyms_seqs_of_names
 c0d97240 D __sched_class_highest
 c0d97240 D stop_sched_class
 c0d972b0 D dl_sched_class
@@ -69288,7 +69288,7 @@ c0ec4b14 d __initcall__kmod_clk_gpio__378_543_gated_fixed_clk_driver_init6
 c0ec4b18 d __initcall__kmod_clk_gpio__377_359_gpio_clk_driver_init6
 c0ec4b1c d __initcall__kmod_clk_bcm2711_dvp__161_119_clk_dvp_driver_init6
 c0ec4b20 d __initcall__kmod_clk_bcm2835_aux__161_68_bcm2835_aux_clk_driver_init6
-c0ec4b24 d __initcall__kmod_clk_raspberrypi__168_554_raspberrypi_clk_driver_init6
+c0ec4b24 d __initcall__kmod_clk_raspberrypi__168_555_raspberrypi_clk_driver_init6
 c0ec4b28 d __initcall__kmod_bcm2835_power__161_711_bcm2835_power_driver_init6
 c0ec4b2c d __initcall__kmod_raspberrypi_power__161_248_rpi_power_driver_init6
 c0ec4b30 d __initcall__kmod_reset_brcmstb__161_122_brcmstb_reset_driver_init6
